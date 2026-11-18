@@ -1,5 +1,9 @@
 # BankInfo Calculate — Financial & Banking Calculator Suite
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-emerald?style=for-the-badge&logo=github)](https://sagorahmedmunna.github.io/BankInfo/)
+
+**Live URL**: [https://sagorahmedmunna.github.io/BankInfo/](https://sagorahmedmunna.github.io/BankInfo/)
+
 A modern, responsive, 100% client-side financial planning web application built with **React 19**, **Vite 6**, and **Tailwind CSS v4**. Designed to simulate Fixed Deposit Receipt (FDR) reinvestment earnings, compare multiple bank FDR schemes side by side, and calculate Credit Card & Bank Loan EMIs directly in the browser with complete privacy and offline support.
 
 No backend server or external API is required — all calculations, visualizations, exports, and preferences run and persist locally in your browser.
